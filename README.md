@@ -16,7 +16,8 @@ yaourt -S aur/polybar \
           aur/otf-fontawesome \
           aur/ttf-unifont \
           aur/i3lock-fancy-git \
-          extra/feh
+	  community/ttf-fira-mono
+	  extra/feh
 ```
 
 then move the .config file in your home reload i3 it should works :)
